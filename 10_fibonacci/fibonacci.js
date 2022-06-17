@@ -24,7 +24,6 @@ const fibonacci = function(n) {
 
 	return n1;
 
-
 };
 
 // Do not edit below this line
