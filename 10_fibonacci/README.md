@@ -8,3 +8,5 @@ Create a function that returns a specific member of the Fibonacci sequence:
 fibonacci(4) // returns the 4th member of the series: 3  (1, 1, 2, 3)
 fibonacci(6) // returns 8
 ```
+1 1 2 3 5 8 13 21 34 55 89
+1 2 3 4 5 6  7  8  9 10 11
